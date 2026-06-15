@@ -225,7 +225,6 @@ Desarrollo de un programa en Python que calcula, analiza y representa gráficame
 | Archivo | Descripción |
 |---|---|
 | `README.md` | Documentación general del proyecto (este archivo) |
-| `DATOS_ESTUDIANTILES.xlsx` | Base de datos de 200 estudiantes (cátedra) |
 | `etapa6.ipynb` | Notebook Python — análisis integrado (etapa 6) |
 | `requirements.txt` | Dependencias del entorno Python |
 | `datos_estudiantes.xlsx` | Excel con el dataset que se utilizo para el trabajo |
