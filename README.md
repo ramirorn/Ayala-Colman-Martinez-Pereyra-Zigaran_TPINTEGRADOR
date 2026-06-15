@@ -225,12 +225,10 @@ Desarrollo de un programa en Python que calcula, analiza y representa gráficame
 | Archivo | Descripción |
 |---|---|
 | `README.md` | Documentación general del proyecto (este archivo) |
-| `Trabajo Practico Integrador.pdf` | Consigna oficial y marco teórico del TP |
-| `TP_Integrador_Estadistica_Etapas2a4.docx` | Informe con desarrollo de etapas 2 a 4 |
 | `DATOS_ESTUDIANTILES.xlsx` | Base de datos de 200 estudiantes (cátedra) |
 | `etapa6.ipynb` | Notebook Python — análisis integrado (etapa 6) |
 | `requirements.txt` | Dependencias del entorno Python |
-| `Presentacion_Bienestar_Digital.pptx` | Presentación resumen del trabajo |
+| `datos_estudiantes.xlsx` | Excel con el dataset que se utilizo para el trabajo |
 
 ---
 
